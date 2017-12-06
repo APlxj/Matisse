@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\GitHub\\Matisse\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths_public.xml",
+        "source": "F:\\GitHub\\Matisse\\sample\\src\\main\\res\\xml\\file_paths_public.xml"
+    },
+    {
+        "merged": "F:\\GitHub\\Matisse\\sample\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths_private.xml",
+        "source": "F:\\GitHub\\Matisse\\sample\\src\\main\\res\\xml\\file_paths_private.xml"
+    }
+]
